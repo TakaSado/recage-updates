@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>RecAge</title>
+        <item>
+            <title>1.2.0</title>
+            <pubDate>Thu, 19 Mar 2026 09:05:12 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TakaSado/RecAge/releases/download/v1.2.0/RecAge.dmg" length="2818101" type="application/octet-stream" sparkle:edSignature="YWIXGkks8y6Mzr8f8Ty44hix6B/y+P332vlifahHbWFXrJUSpSfoIQFB+WW1nxvzppZ3Uyk5A0LWXdyB+1ldBg=="/>
+        </item>
+    </channel>
+</rss>
