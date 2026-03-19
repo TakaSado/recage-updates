@@ -3,6 +3,14 @@
     <channel>
         <title>RecAge</title>
         <item>
+            <title>1.2.3</title>
+            <pubDate>Thu, 19 Mar 2026 13:18:19 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.2.3/RecAge.dmg" length="2884793" type="application/octet-stream" sparkle:edSignature="Y/zShKPDgLPIlkRg4YjkUKb7ZA2Ai5eWBJvaecgm2LLIw+m12cVIzLOobmHIeEMNiekMwRrsxEMI6G2fRRYfDA=="/>
+        </item>
+        <item>
             <title>1.2.2</title>
             <pubDate>Thu, 19 Mar 2026 11:38:40 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
