@@ -6,9 +6,9 @@
             <title>1.2.0</title>
             <pubDate>Thu, 19 Mar 2026 09:05:12 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TakaSado/RecAge/releases/download/v1.2.0/RecAge.dmg" length="2818101" type="application/octet-stream" sparkle:edSignature="YWIXGkks8y6Mzr8f8Ty44hix6B/y+P332vlifahHbWFXrJUSpSfoIQFB+WW1nxvzppZ3Uyk5A0LWXdyB+1ldBg=="/>
+            <enclosure url="https://github.com/TakaSado/RecAge/releases/download/RecAge.dmg" length="2889131" type="application/octet-stream" sparkle:edSignature="sI+v1cjxpHjDiwvMDOHxGVse2a50gWYQESuajq2tVIeeQZtOpu3VMRLONh1FWymAJdM/5eJwvkp9uZsxGLpKCw=="/>
         </item>
     </channel>
 </rss>
