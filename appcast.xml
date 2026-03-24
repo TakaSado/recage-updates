@@ -3,6 +3,14 @@
     <channel>
         <title>RecAge</title>
         <item>
+            <title>1.2.9</title>
+            <pubDate>Tue, 24 Mar 2026 11:08:54 +0900</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.2.9/RecAge.dmg" length="2912683" type="application/octet-stream" sparkle:edSignature="2ouxWV+ahFfJ40w5QsEGmN6n52+Oi7wocEy6XpfntfzoBObDb2NtKvP+652HuEqP+cje7A7B/ZcMrQApm1pNDw=="/>
+        </item>
+        <item>
             <title>1.2.8</title>
             <pubDate>Tue, 24 Mar 2026 10:49:36 +0900</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.2.7/RecAge.dmg" length="2892025" type="application/octet-stream" sparkle:edSignature="ty7vOo1q7nBdUdHuD/xcss56RDlLqxWsIGM8NlzdpgPIpG1yiOfthlJqpHV1qBOw5L1dSsFtSMMoEMMti+pkAQ=="/>
-        </item>
-        <item>
-            <title>1.2.6</title>
-            <pubDate>Tue, 24 Mar 2026 10:15:04 +0900</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.2.6/RecAge.dmg" length="2892086" type="application/octet-stream" sparkle:edSignature="M5KqcJcbhLumIRzdPEGcoq6IGb4EmeLSU2Z4nVnW3cdMb2m+d042HVdsrzxKnDEeMOp/OZQzZYcUZ47Ec3EsCA=="/>
         </item>
     </channel>
 </rss>
