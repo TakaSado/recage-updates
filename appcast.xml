@@ -3,6 +3,14 @@
     <channel>
         <title>RecAge</title>
         <item>
+            <title>1.4.3</title>
+            <pubDate>Wed, 01 Apr 2026 17:10:34 +0900</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.4.3/RecAge.dmg" length="3550601" type="application/octet-stream" sparkle:edSignature="AoSjTL+1ovHpJTqxZw/QbUSEF3FhB9f9snxSNdvTHOIFJCGvfhFWgzpVEazse8J/lMYrnKZ6soCNbDIn1SETAg=="/>
+        </item>
+        <item>
             <title>1.4.2</title>
             <pubDate>Mon, 30 Mar 2026 18:26:15 +0900</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.4.1/RecAge.dmg" length="3528829" type="application/octet-stream" sparkle:edSignature="qFiCpeZQD4ozgK9M13VQgrnHq4z8swFWBr8SKb/9mgjgKEcYnBhwxxO4uxxty94bhyzKwgEElzILWy6bjRTWCg=="/>
-        </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Mon, 30 Mar 2026 11:39:14 +0900</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.4.0/RecAge.dmg" length="3495398" type="application/octet-stream" sparkle:edSignature="IlpdQME5WW84h6ZEIpqAD8mInP9cFzgl7Bqs2e1KM43N0UDehOAQH0ZokwdWmUv//FD9XvHPGwRxp1RDmu+qCg=="/>
         </item>
     </channel>
 </rss>
