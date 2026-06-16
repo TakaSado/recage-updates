@@ -8,7 +8,7 @@
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.4.8/RecAge.dmg" length="3661610" type="application/octet-stream" sparkle:edSignature="JGqIOMLHdLc0FiHigZXcMl8hmbjQx/6niBbC6m2YdT9zeLX+YtOzQlpEi8ANLIzsLknIySAUD15TU9S9tbwHCA=="/>
+            <enclosure url="https://github.com/TakaSado/recage-updates/releases/download/v1.4.8/RecAge.dmg" length="5012672" type="application/octet-stream" sparkle:edSignature="yFGYBW15uCWGOjfSzMRyht0O5FGeCUFy0FGVjQmrpMNg90jF+H64HYS0V9mjfnM8URM0TbChWtf9u7+MWeafBA=="/>
         </item>
         <item>
             <title>1.4.7</title>
